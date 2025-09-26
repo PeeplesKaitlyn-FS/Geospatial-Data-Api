@@ -1,0 +1,20 @@
+{
+  "name": "geospatial-data-api",
+  "version": "1.0.0",
+  "description": "Geospatial Data API Integration and MongoDB Assignment",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.1",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.18.2",
+    "morgan": "^1.10.1"
+  }
+}
