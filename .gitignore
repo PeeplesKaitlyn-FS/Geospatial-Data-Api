@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+logs
+*.log
+
+# build / coverage
+dist/
+coverage/
