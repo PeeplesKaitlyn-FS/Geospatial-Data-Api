@@ -13,7 +13,7 @@ This Node.js app fetches geospatial weather data from **Open-Meteo** by latitude
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PeeplesKaitlyn-FS/Geospatial-Data-Api.git
 cd geospatial-data-api
 cp .env.example .env   
 npm install
